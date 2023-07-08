@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  margin: 2rem;
+}
+
+.container {
+  padding: 1rem;
+  margin: 1rem;
+  border: 1px solid black;
+}
+
+.header {
+  margin: 1rem ;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.dailog {
+  left: 0;
+  top: 50px;
+  background-color: azure;
+}

@@ -1,0 +1,33 @@
+
+.cards {
+    border: 1px solid black;
+    padding: 1rem;
+    margin: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 4px;
+}
+
+.card {
+    padding: 1rem;
+    margin: 1rem;
+    border: 3px solid rgb(186, 147, 31);
+    width: 20%;
+    border-radius: 4px;
+}
+
+.todo-state {
+    padding: 4px;
+    margin: 4px;
+}
+.todo-title {
+    padding: 4px;
+    margin: 4px;
+    font-weight: 900;
+    font-size: medium;
+    background-color: aquamarine;
+}
+.mark-button{
+    border-radius: 6px;
+    border: 1px solid brown;
+}
